@@ -17,3 +17,22 @@ cz1457
 * | d5f14c8 b1 f1
 |/  
 * 9fd50aa init
+wz1131
+*   00d40cc Merge branch 'b2'
+|\  
+| *   add995b Merge branch 'master' into b2
+| |\  
+| * | 554b921 create f4
+* | |   d43e19e Merge branch 'master' into b1
+|\ \ \  
+| | |/  
+| |/|   
+| * |   7a9f770 Merge branch 'b2'
+| |\ \  
+| | |/  
+| | * 8b6b153 3rd commit
+* | | 660692f create f3
+|/ /  
+* | 6e04918 2nd commit
+|/  
+* 974fe96 1st commit
