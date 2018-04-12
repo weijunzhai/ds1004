@@ -1,3 +1,41 @@
+cz1457
+*   056dfb4 Merge branches 'b1' and 'b2'
+|\  
+| *   b432c5a Merge branch 'master' into b2
+| |\  
+| * | fc6d754 b2 f4
+* | |   a57f2cd Merge branch 'master' into b1
+|\ \ \  
+| | |/  
+| |/|   
+| * |   8c7fdc1 Merge branches 'b1' and 'b2'
+| |\ \  
+| | |/  
+| | * 36b85d9 b2 f2
+* | | 02eda3f b1 f3
+|/ /  
+* | d5f14c8 b1 f1
+|/  
+* 9fd50aa init
+hw1786
+*   04843f8 Merge branch 'b2'
+|\  
+| *   af3a9bf Merge branch 'master' into b2
+| |\  
+| * | 9450d62 f4 b2
+* | |   2b27f9d Merge branch 'master' into b1
+|\ \ \  
+| | |/  
+| |/|   
+| * |   c7a888c Merge branch 'b2'
+| |\ \  
+| | |/  
+| | * 686e76b f2 b2
+* | | 5f81ee0 f3 b1
+|/ /  
+* | beb348f f1 b1
+|/  
+* 752a52e f0 master
 wz1131
 *   00d40cc Merge branch 'b2'
 |\  
